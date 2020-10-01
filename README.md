@@ -4,8 +4,6 @@
 
 ### Stats
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=septs)](https://github.com/anuraghazra/github-readme-stats)
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=septs)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Skill
 
@@ -18,3 +16,9 @@
 - Blog: https://septs.blog
 - Telegram: [@septs](http://t.me/septs)
 - Email: [github@septs.email](mailto:github@septs.email)
+
+### Joined Organization
+
+- [@tc39](https://github.com/tc39)
+- [@NiceLabs](https://github.com/NiceLabs)
+- [@DimensionDev](https://github.com/DimensionDev)
