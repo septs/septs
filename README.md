@@ -22,3 +22,8 @@
 - [@tc39](https://github.com/tc39)
 - [@NiceLabs](https://github.com/NiceLabs)
 - [@DimensionDev](https://github.com/DimensionDev)
+
+### Committer
+
+- Coreboot (flashrom)
+- Linux kernel (linux-usb)
