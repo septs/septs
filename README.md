@@ -19,8 +19,9 @@
 
 ### Joined Organization
 
-- [@tc39](https://github.com/tc39)
-- [@NiceLabs](https://github.com/NiceLabs)
+- [@tc39](https://github.com/tc39) - TC39 Member
+- [@NiceLabs](https://github.com/NiceLabs) - Personal workgroup
+- [@VoiceGateway](https://github.com/VoiceGateway) - FOSS Voice Gateway Project
 - [@DimensionDev](https://github.com/DimensionDev)
 
 ### Committer
