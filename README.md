@@ -17,12 +17,12 @@
 - Telegram: [@septs](http://t.me/septs)
 - Email: [github@septs.email](mailto:github@septs.email)
 
-### Joined Organization
+### Joined Workgroup
 
-- [@tc39](https://github.com/tc39) - TC39 Member
+- [@tc39](https://github.com/tc39) - TC39 Workgroup Member
 - [@NiceLabs](https://github.com/NiceLabs) - Personal Workgroup
 - [@VoiceGateway](https://github.com/VoiceGateway) - FOSS Voice Gateway Project
-- [@DimensionDev](https://github.com/DimensionDev)
+- [@DimensionDev](https://github.com/DimensionDev) - [dimension.im](https://dimension.im)
 
 ### Committer
 
