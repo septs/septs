@@ -21,7 +21,7 @@
 
 - [@tc39](https://github.com/tc39) - TC39 Workgroup Member
 - [@NiceLabs](https://github.com/NiceLabs) - Personal Workgroup
-- [@VoiceGateway](https://github.com/VoiceGateway) - FOSS Voice Gateway Project
+- [@VoiceGateway](https://github.com/M2MGateway) - FOSS M2M Gateway Project
 - [@DimensionDev](https://github.com/DimensionDev) - [dimension.im](https://dimension.im)
 
 ### Committer
