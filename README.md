@@ -16,6 +16,8 @@
 - Blog: https://septs.blog
 - Telegram: [@septs](http://t.me/septs)
 - Email: [github@septs.email](mailto:github@septs.email)
+- QQ: Never
+- WeChat: Never
 
 ### Joined Workgroup
 
