@@ -21,7 +21,7 @@
 
 ### Joined Workgroup
 
-- [@tc39](https://github.com/tc39) - TC39 Workgroup Member
+- [@tc39](https://github.com/tc39) - TC39 Delegate
 - [@NiceLabs](https://github.com/NiceLabs) - Personal Workgroup
 - [@M2MGateway](https://github.com/M2MGateway) - FOSS M2M Gateway Project
 - [@DimensionDev](https://github.com/DimensionDev) - [dimension.im](https://dimension.im)
