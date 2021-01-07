@@ -14,7 +14,7 @@
 ### Links
 
 - Blog: https://septs.blog
-- Telegram: [@septs](http://t.me/septs)
+- Telegram: (at) septs
 - Email: [github@septs.email](mailto:github@septs.email)
 - QQ: **(never)**
 - WeChat: **(never)**
